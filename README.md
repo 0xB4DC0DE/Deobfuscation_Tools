@@ -1,8 +1,8 @@
-##########################################################\n
-Guloader_strings_deobfuscator.py\n
-Used to deobfuscate GuLoader PowerShell scripts.\n
+##########################################################<br>
+Guloader_strings_deobfuscator.py<br>
+Used to deobfuscate GuLoader PowerShell scripts<br>
 
-Steps to use:\n
-\tDetermine what substring sample uses.\n
-\tDetermine what XOR value sample uses.\n
-##########################################################\n
+Steps to use:<br>
+  Determine what substring sample uses<br>
+  Determine what XOR value sample uses<br>
+##########################################################<br>

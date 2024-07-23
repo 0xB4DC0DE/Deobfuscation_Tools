@@ -1,4 +1,3 @@
-##########################################################<br>
 Guloader_strings_deobfuscator.py<br>
 ----------------------------------------------------------<br>
 Used to deobfuscate GuLoader PowerShell scripts<br><br>
@@ -11,5 +10,4 @@ Steps to use:<br>
   - Add XOR brute-forcer<br>
   - Add substring brute-forces<br>
   - Add argument parsing<br>
-  - Convert 2D arrays to tuples<br><br>
-##########################################################<br>
+  - Convert 2D arrays to tuples

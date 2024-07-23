@@ -11,5 +11,5 @@ Steps to use:<br>
   - Add XOR brute-forcer<br>
   - Add substring brute-forces<br>
   - Add argument parsing<br>
-  - Convert 2D arrays to tuples<br>
+  - Convert 2D arrays to tuples
 ##########################################################<br>
